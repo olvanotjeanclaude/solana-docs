@@ -1,5 +1,11 @@
-{
-    "token":"4Mwbyou5SEPvsK2U1cqZ2z3RGfG3V5avNNu6fU3JiMdK",
-    "public_key": "69jKKh2ctic1qkf3aWsHGP8N2iofonL6fvDA5McJ8hER",
-    "private_key": "5Uy7H8vhh4QKyq8m5J2sJ4fYHKiGjMSVZUaMcUsSTgwy5nXCH8U419RA6iCrchDFCoQC8csHcWpoNstqgBkUCcC1"
-}
+[
+    {
+        "token": "4Mwbyou5SEPvsK2U1cqZ2z3RGfG3V5avNNu6fU3JiMdK",
+        "public_key": "69jKKh2ctic1qkf3aWsHGP8N2iofonL6fvDA5McJ8hER",
+        "private_key": "5Uy7H8vhh4QKyq8m5J2sJ4fYHKiGjMSVZUaMcUsSTgwy5nXCH8U419RA6iCrchDFCoQC8csHcWpoNstqgBkUCcC1"
+    },
+    {
+        "public_key": "G1z3BuMcrZYShfn2GcrdLErrfyPnzLwEPQt3P9WJKZ6L",
+        "private_key": "34bbWP7LEmTxEAk2zkzKSCJHeoL3jFJSb93agHQvMFncpEzjXiz2REKfL9bG5tQZ9ZfyRFCYqgqDSQtxhoqs2GuA"
+    }
+]
